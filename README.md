@@ -1,5 +1,5 @@
 # mimimiTranslate
-Convierte un texto en mimimi
+¡Convierte un texto en mimimi que solo puedan entender expertos del idioma!
 
 
 Descargar: https://github.com/ourenseko/mimimiTranslate/blob/main/mimimiTraductor.jar?raw=true
